@@ -44,7 +44,8 @@ func twoSum(nums []int, target int) []int {
 	// iterating nums | O(n)
 	for i, v := range nums {
 		// check if the target's pair (target - v) exists
-		if j, ok := pairs[target-v]; ok {
+		diff := target - v
+		if j, ok := pairs[diff]; ok {
 			// returns the index
 			return []int{j, i}
 		}
