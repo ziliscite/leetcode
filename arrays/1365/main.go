@@ -13,7 +13,7 @@ func main() {
 }
 
 func smallerNumbersThanCurrent(nums []int) []int {
-	// copying | O(n)
+	// copying the whole array | O(n)
 	sorted := make([]int, len(nums))
 
 	copy(sorted, nums)

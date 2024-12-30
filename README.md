@@ -7,5 +7,6 @@ Spend some time to understand the question before attempting to answer it. Visua
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
 timestamp 00:30:38
