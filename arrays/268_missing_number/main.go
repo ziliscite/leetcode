@@ -8,10 +8,10 @@ import (
 // All distinct values between 0 and n
 var nums = []int{9, 6, 4, 2, 3, 5, 7, 0, 1}
 
+var ans = 8
+
 func main() {
 	//missing := missingNumberBrute(nums)
-
-	//missing := []int{0, 1}
 	fmt.Println(missingNumberSum(nums))
 }
 
